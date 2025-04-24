@@ -22,10 +22,6 @@
 - 📎 Canales de comunicación disponibles previa solicitud
 - 📌 Plataforma principal: GitHub y entornos de desarrollo colaborativo
 
-## 📝 Información Adicional
-- 📊 Mayor productividad en ambiente de trabajo con música
-- 📈 Entusiasta del deporte y la actividad física
-- 📚 Competencia en inglés: buena comprensión de documentación técnica
 
 <!---
 isnaval/isnaval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
