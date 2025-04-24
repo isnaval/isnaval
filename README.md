@@ -1,26 +1,26 @@
-# Ismael NV (@isnaval)
+# IsmaelNV (@isnaval)
 
-## 📊 Perfil Profesional
-- 🔹 Desarrollador de Software enfocado en soluciones tecnológicas eficientes
-- 🔹 Profesional orientado a resultados con enfoque en calidad de código
-- 🔹 Comprometido con el aprendizaje continuo y la adopción de buenas prácticas
+## 📊 Professional Profile
+- 🔹 Software Developer focused on efficient technological solutions
+- 🔹 Results-oriented professional with emphasis on code quality
+- 🔹 Committed to continuous learning and adoption of best practices
 
-## 📈 Stack Tecnológico
-- 🔸 Desarrollo backend: Aprendiendo Java y sus fundamentos
-- 🔸 Frontend: Estudiando JavaScript y manipulación del DOM
-- 🔸 Especial interés en arquitectura de software escalable y microservicios
-- 🔸 Apasionado por el diseño de APIs bien estructuradas y eficientes
-- 🔸 Fascinado por el diseño de sistemas distribuidos y patrones de alta disponibilidad
+## 📈 Technology Stack
+- 🔸 Backend development: Learning Java and its fundamentals
+- 🔸 Frontend: Studying JavaScript and DOM manipulation
+- 🔸 Special interest in scalable software architecture and microservices
+- 🔸 Passionate about well-structured and efficient API design
+- 🔸 Fascinated by distributed systems design and high availability patterns
 
-## 🔄 Áreas de Colaboración
-- ▫️ Proyectos de desarrollo tecnológico con enfoque práctico
-- ▫️ Equipos que valoren el aprendizaje colaborativo y la mejora continua
-- ▫️ Iniciativas orientadas a la implementación de arquitecturas modernas y escalables
-- ▫️ Iniciativas open-source para ganar experiencia y contribuir a la comunidad
+## 🔄 Collaboration Areas
+- ▫️ Technology development projects with a practical approach
+- ▫️ Teams that value collaborative learning and continuous improvement
+- ▫️ Initiatives focused on implementing modern and scalable architectures
+- ▫️ Open-source initiatives to gain experience and contribute to the community
 
-## 📋 Información de Contacto
-- 📎 Canales de comunicación disponibles previa solicitud
-- 📌 Plataforma principal: GitHub y entornos de desarrollo colaborativo
+## 📋 Contact Information
+- 📎 Communication channels available upon request
+- 📌 Main platform: GitHub and collaborative development environments
 
 
 <!---
